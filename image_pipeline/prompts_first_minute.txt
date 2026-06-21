@@ -1,0 +1,22 @@
+# Prompts para 0–60s (10 amostras, estilo: "MS Paint bonito")
+# Formato: filename | prompt | negative_prompt | width x height
+
+000s.png | Ilustração digital no estilo "MS Paint bonito": paleta azul e anil que conversa com a logomarca, formas simples e levemente texturizadas, gradientes suaves, símbolos místicos sutis (lótus, portal, olho cósmico), sensação de certeza e calma, composição central, traço manual digital, iluminação suave, não realista, clean, elegante. | photorealistic, face, text, watermark, logo, 3D, hyperrealistic | 1280x720
+
+006s.png | Mão estilizada segurando uma luz azul, pinceladas digitais simples e planas, atmosfera contemplativa, fundo em tons de azul escuro com estrelas suaves, presença simbólica (pequeno símbolo dourado), MS Paint bonito, clean e refinado. | photorealistic, detailed texture, text, watermark | 1280x720
+
+012s.png | Portal azul minimal com gradientes suaves e pontos brilhantes, composição central, sensação de transição interior, MS Paint bonito, traço limpo e poucas formas. | photorealistic, high detail, logo, watermark | 1280x720
+
+018s.png | Figura estilizada em meditação, silhueta simples com aura azul e pequenos símbolos flutuantes, aparência pintada à mão digitalmente, sensação de presença e certeza. | photorealistic, realistic face, text, watermark | 1280x720
+
+024s.png | Impressora simbólica abstrata: um ícone estilizado que imprime formas azuis (metáfora do subconsciente), traço simples, MS Paint bonito, leve granulação artística. | photorealistic, 3D render, text | 1280x720
+
+030s.png | Caixa de visão/quadro de sonhos estilizado com imagens simples e cor azul dominante, elementos de afirmação escritos em símbolos (não texto legível), atmosfera serena e inspiradora, MS Paint bonito. | photorealistic, readable text, watermark | 1280x720
+
+036s.png | Coração/centro emocional representado por um núcleo brilhante azul dentro de um corpo simples; linhas radiantes mostrando sensação e energia, estilo MS Paint bonito, limpo. | photorealistic, gore, text | 1280x720
+
+042s.png | Dois sentimentos em conflito ilustrados por duas formas opostas (uma fria, outra quente) com predominância azul quando a certeza vence; composição simbólica, MS Paint bonito. | photorealistic, complex shading, text | 1280x720
+
+048s.png | Quarto abafado que se transforma: uma cena simples mostrando ajuste de temperatura simbólico (controle estilizado virando para azul), metáfora visual clara, MS Paint bonito. | photorealistic, photo, watermark | 1280x720
+
+054s.png | Final do minuto: composição com livro aberto (referência a Neville) e pequenas estrelas saindo das páginas, tom azul profundo, sensação de certeza e manifestação, MS Paint bonito e elegante. | photorealistic, text, watermark | 1280x720
